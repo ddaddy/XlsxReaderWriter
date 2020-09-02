@@ -90,7 +90,6 @@
 		22225F301C47F75000256993 /* XlsxReaderWriter.h in Headers */ = {isa = PBXBuildFile; fileRef = 22225F2F1C47F72B00256993 /* XlsxReaderWriter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		22225F351C481E2500256993 /* NativeFont+BoldItalic.m in Sources */ = {isa = PBXBuildFile; fileRef = 4580C6CB1A15171100790ED5 /* NativeFont+BoldItalic.m */; };
 		24A00125111C3D765EDA996D /* Pods_XlsxReaderWriter_iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79E472C077C3646AA0AB918D /* Pods_XlsxReaderWriter_iOS.framework */; };
-		3091D6760737E4DE787CD5D9 /* Pods_XlsxReaderWriter_WatchOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE6FE4A0923218F5E894331F /* Pods_XlsxReaderWriter_WatchOS.framework */; };
 		454D49FD1B4B27E40053CD86 /* BRATheme.m in Sources */ = {isa = PBXBuildFile; fileRef = 454D49FC1B4B27E40053CD86 /* BRATheme.m */; };
 		455542A71C492C6A00EAB8FE /* BRAPlatformSpecificDefines.h in Headers */ = {isa = PBXBuildFile; fileRef = 455542A61C492C6A00EAB8FE /* BRAPlatformSpecificDefines.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		455C23B61BB908D300CEE3A2 /* BRAVmlDrawing.m in Sources */ = {isa = PBXBuildFile; fileRef = 455C23B51BB908D300CEE3A2 /* BRAVmlDrawing.m */; };
@@ -311,7 +310,6 @@
 		82DAA59C237C0A71003AFDE7 /* ZipArchive.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 82DAA59B237C0A71003AFDE7 /* ZipArchive.framework */; };
 		82DAA59E237C0A7C003AFDE7 /* ZipArchive.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 82DAA59D237C0A7C003AFDE7 /* ZipArchive.framework */; };
 		9C1C93BE387CCF075E3314BF /* Pods_XlsxReaderWriterTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 10546D48274DAB6878F91848 /* Pods_XlsxReaderWriterTests.framework */; };
-		FE0403C027DE07F4C3F5ABAB /* Pods_XlsxReaderWriter_Mac.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5C80DAB821631DC9A77D4D26 /* Pods_XlsxReaderWriter_Mac.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -354,7 +352,6 @@
 		22156DB21C46B7EC00BB5779 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks/Cocoa.framework; sourceTree = DEVELOPER_DIR; };
 		22225F2D1C47F60600256993 /* libz.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.1.dylib; path = /usr/lib/libz.1.dylib; sourceTree = "<absolute>"; };
 		22225F2F1C47F72B00256993 /* XlsxReaderWriter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XlsxReaderWriter.h; sourceTree = "<group>"; };
-		2EC9D2AF8EE7BE67207E668B /* Pods-XlsxReaderWriter-WatchOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriter-WatchOS.debug.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriter-WatchOS/Pods-XlsxReaderWriter-WatchOS.debug.xcconfig"; sourceTree = "<group>"; };
 		450E98F71B9783D500177B4A /* XlsxReaderWriter-swift-bridge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "XlsxReaderWriter-swift-bridge.h"; sourceTree = "<group>"; };
 		454D49FB1B4B27E40053CD86 /* BRATheme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRATheme.h; sourceTree = "<group>"; };
 		454D49FC1B4B27E40053CD86 /* BRATheme.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRATheme.m; sourceTree = "<group>"; };
@@ -448,11 +445,7 @@
 		45D6FBD31BB27833002ACC9C /* BRACalcChainCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRACalcChainCell.m; sourceTree = "<group>"; };
 		45D6FBD61BB27970002ACC9C /* BRAComment.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BRAComment.h; sourceTree = "<group>"; };
 		45D6FBD71BB279A5002ACC9C /* BRAComment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRAComment.m; sourceTree = "<group>"; };
-		46B43B00BDC5F587987F3288 /* Pods-XlsxReaderWriter-Mac.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriter-Mac.debug.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriter-Mac/Pods-XlsxReaderWriter-Mac.debug.xcconfig"; sourceTree = "<group>"; };
 		46F17E455AED3205E3BDFBB6 /* Pods-XlsxReaderWriterTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriterTests.debug.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriterTests/Pods-XlsxReaderWriterTests.debug.xcconfig"; sourceTree = "<group>"; };
-		4B520C9F32CC04BF5335E55A /* Pods-XlsxReaderWriter-WatchOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriter-WatchOS.release.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriter-WatchOS/Pods-XlsxReaderWriter-WatchOS.release.xcconfig"; sourceTree = "<group>"; };
-		55219FC39B365180B1665C26 /* Pods-XlsxReaderWriter-Mac.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriter-Mac.release.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriter-Mac/Pods-XlsxReaderWriter-Mac.release.xcconfig"; sourceTree = "<group>"; };
-		5C80DAB821631DC9A77D4D26 /* Pods_XlsxReaderWriter_Mac.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XlsxReaderWriter_Mac.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		79E472C077C3646AA0AB918D /* Pods_XlsxReaderWriter_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XlsxReaderWriter_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8265BC2F2041C4BE004A2A7D /* XlsxReaderXMLDictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XlsxReaderXMLDictionary.h; path = XlsxReaderWriter/XlsxReaderXMLDictionary.h; sourceTree = "<group>"; };
 		8265BC302041C4BE004A2A7D /* XlsxReaderXMLDictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XlsxReaderXMLDictionary.m; path = XlsxReaderWriter/XlsxReaderXMLDictionary.m; sourceTree = "<group>"; };
@@ -472,7 +465,6 @@
 		82DAA59D237C0A7C003AFDE7 /* ZipArchive.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ZipArchive.framework; path = Carthage/Build/Mac/ZipArchive.framework; sourceTree = "<group>"; };
 		87E8EFADE61B3A073FA72D4A /* Pods_XlsxReaderWriter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XlsxReaderWriter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		88C087E5901FCE236E758D78 /* Pods-XlsxReaderWriter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriter.debug.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriter/Pods-XlsxReaderWriter.debug.xcconfig"; sourceTree = "<group>"; };
-		AE6FE4A0923218F5E894331F /* Pods_XlsxReaderWriter_WatchOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XlsxReaderWriter_WatchOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9AD7E22489EF91E3B88F4C9 /* Pods-XlsxReaderWriter-iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriter-iOS.debug.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriter-iOS/Pods-XlsxReaderWriter-iOS.debug.xcconfig"; sourceTree = "<group>"; };
 		D39ECDF99691A1A9CED819CC /* Pods-XlsxReaderWriter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriter.release.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriter/Pods-XlsxReaderWriter.release.xcconfig"; sourceTree = "<group>"; };
 		F7ABC5622E3B8EF3F3460B9C /* Pods-XlsxReaderWriterTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriterTests.release.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriterTests/Pods-XlsxReaderWriterTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -486,7 +478,6 @@
 				82DAA59E237C0A7C003AFDE7 /* ZipArchive.framework in Frameworks */,
 				22225F2E1C47F60600256993 /* libz.1.dylib in Frameworks */,
 				22156DB31C46B7EC00BB5779 /* Cocoa.framework in Frameworks */,
-				FE0403C027DE07F4C3F5ABAB /* Pods_XlsxReaderWriter_Mac.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -526,7 +517,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3091D6760737E4DE787CD5D9 /* Pods_XlsxReaderWriter_WatchOS.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1075,10 +1065,8 @@
 				82BB0D4421519CB900CD4CC4 /* libz.1.tbd */,
 				8289AAC42041E8A900E00603 /* libz.tbd */,
 				87E8EFADE61B3A073FA72D4A /* Pods_XlsxReaderWriter.framework */,
-				5C80DAB821631DC9A77D4D26 /* Pods_XlsxReaderWriter_Mac.framework */,
 				79E472C077C3646AA0AB918D /* Pods_XlsxReaderWriter_iOS.framework */,
 				10546D48274DAB6878F91848 /* Pods_XlsxReaderWriterTests.framework */,
-				AE6FE4A0923218F5E894331F /* Pods_XlsxReaderWriter_WatchOS.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -1101,10 +1089,6 @@
 				F7ABC5622E3B8EF3F3460B9C /* Pods-XlsxReaderWriterTests.release.xcconfig */,
 				C9AD7E22489EF91E3B88F4C9 /* Pods-XlsxReaderWriter-iOS.debug.xcconfig */,
 				08280D4D0BA3795BF05B7970 /* Pods-XlsxReaderWriter-iOS.release.xcconfig */,
-				46B43B00BDC5F587987F3288 /* Pods-XlsxReaderWriter-Mac.debug.xcconfig */,
-				55219FC39B365180B1665C26 /* Pods-XlsxReaderWriter-Mac.release.xcconfig */,
-				2EC9D2AF8EE7BE67207E668B /* Pods-XlsxReaderWriter-WatchOS.debug.xcconfig */,
-				4B520C9F32CC04BF5335E55A /* Pods-XlsxReaderWriter-WatchOS.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -1269,7 +1253,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 22156D5D1C46B42500BB5779 /* Build configuration list for PBXNativeTarget "XlsxReaderWriter-Mac" */;
 			buildPhases = (
-				CA73F870E8D602EB3994FDD8 /* [CP] Check Pods Manifest.lock */,
 				22156D531C46B42500BB5779 /* Sources */,
 				22156D541C46B42500BB5779 /* Frameworks */,
 				22156D551C46B42500BB5779 /* Headers */,
@@ -1345,7 +1328,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8289AADD20420FFC00E00603 /* Build configuration list for PBXNativeTarget "XlsxReaderWriter-WatchOS" */;
 			buildPhases = (
-				C2DE06536813BECFBDD0EA51 /* [CP] Check Pods Manifest.lock */,
 				8289AAD120420FFC00E00603 /* Sources */,
 				8289AAD220420FFC00E00603 /* Frameworks */,
 				8289AAD320420FFC00E00603 /* Headers */,
@@ -1491,50 +1473,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		C2DE06536813BECFBDD0EA51 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-XlsxReaderWriter-WatchOS-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		CA73F870E8D602EB3994FDD8 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-XlsxReaderWriter-Mac-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
 		DCFE61AA2258A75854B95C6C /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -1564,7 +1502,7 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-XlsxReaderWriterTests/Pods-XlsxReaderWriterTests-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/SSZipArchive-iOS/SSZipArchive.framework",
+				"${BUILT_PRODUCTS_DIR}/SSZipArchive/SSZipArchive.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
@@ -1784,7 +1722,6 @@
 /* Begin XCBuildConfiguration section */
 		22156D5E1C46B42500BB5779 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46B43B00BDC5F587987F3288 /* Pods-XlsxReaderWriter-Mac.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				COMBINE_HIDPI_IMAGES = YES;
@@ -1821,7 +1758,6 @@
 		};
 		22156D5F1C46B42500BB5779 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 55219FC39B365180B1665C26 /* Pods-XlsxReaderWriter-Mac.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				COMBINE_HIDPI_IMAGES = YES;
@@ -2138,7 +2074,6 @@
 		};
 		8289AADB20420FFC00E00603 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2EC9D2AF8EE7BE67207E668B /* Pods-XlsxReaderWriter-WatchOS.debug.xcconfig */;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -2185,7 +2120,6 @@
 		};
 		8289AADC20420FFC00E00603 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4B520C9F32CC04BF5335E55A /* Pods-XlsxReaderWriter-WatchOS.release.xcconfig */;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ANALYZER_NONNULL = YES;
