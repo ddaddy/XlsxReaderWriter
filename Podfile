@@ -2,7 +2,7 @@ source 'https://github.com/CocoaPods/Specs'
 
 
 def thridparty
-    pod 'SSZipArchive', '~> 2.1'
+    pod 'SSZipArchive', :git => 'https://github.com/ddaddy/ZipArchive.git', :branch => 'master'
 end
 
 target 'XlsxReaderWriter' do
