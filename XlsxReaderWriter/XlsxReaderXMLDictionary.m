@@ -32,7 +32,7 @@
 // This version has been integrated to XlsxReader
 
 
-#import "XlsxReaderXMLDictionary.h"
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
 
 
 #import <Availability.h>

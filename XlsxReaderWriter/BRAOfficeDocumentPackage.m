@@ -6,14 +6,14 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRAOfficeDocumentPackage.h"
-#import "BRAOfficeDocument.h"
-#import "BRARelationships.h"
-#import "BRAContentTypes.h"
-#import "BRAWorksheet.h"
-#import "BRARow.h"
-#import "BRAColumn.h"
-#import "BRACell.h"
+#import <XlsxReaderWriter/BRAOfficeDocumentPackage.h>
+#import <XlsxReaderWriter/BRAOfficeDocument.h>
+#import <XlsxReaderWriter/BRARelationships.h>
+#import <XlsxReaderWriter/BRAContentTypes.h>
+#import <XlsxReaderWriter/BRAWorksheet.h>
+#import <XlsxReaderWriter/BRARow.h>
+#import <XlsxReaderWriter/BRAColumn.h>
+#import <XlsxReaderWriter/BRACell.h>
 
 #if COCOAPODS
 @import SSZipArchive;

@@ -6,13 +6,13 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRAWorksheetDrawing.h"
-#import "BRACell.h"
-#import "BRAColumn.h"
-#import "BRARow.h"
-#import "BRAImage.h"
+#import <XlsxReaderWriter/BRAWorksheetDrawing.h>
+#import <XlsxReaderWriter/BRACell.h>
+#import <XlsxReaderWriter/BRAColumn.h>
+#import <XlsxReaderWriter/BRARow.h>
+#import <XlsxReaderWriter/BRAImage.h>
 
-#import "NSDictionary+DeepCopy.h"
+#import <XlsxReaderWriter/NSDictionary+DeepCopy.h>
 
 @implementation BRAAnchor
 

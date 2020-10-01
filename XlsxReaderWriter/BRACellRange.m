@@ -6,8 +6,8 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRACellRange.h"
-#import "BRAColumn.h"
+#import <XlsxReaderWriter/BRACellRange.h>
+#import <XlsxReaderWriter/BRAColumn.h>
 
 @implementation BRACellRange
 

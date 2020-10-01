@@ -7,7 +7,7 @@
 //
 
 @import Foundation;
-#import "BRACellRange.h"
+#import <XlsxReaderWriter/BRACellRange.h>
 
 @interface BRAMergeCell : BRACellRange
 

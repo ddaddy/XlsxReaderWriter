@@ -6,8 +6,8 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRANumberFormat.h"
-#import "BRAStyles.h"
+#import <XlsxReaderWriter/BRANumberFormat.h>
+#import <XlsxReaderWriter/BRAStyles.h>
 
 @implementation BRANumberFormatData
 

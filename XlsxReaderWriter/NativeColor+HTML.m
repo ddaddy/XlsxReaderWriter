@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "NativeColor+HTML.h"
+#import <XlsxReaderWriter/NativeColor+HTML.h>
 
 @implementation BRANativeColor (HTML)
 

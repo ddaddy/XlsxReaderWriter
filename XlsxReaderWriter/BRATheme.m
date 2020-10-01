@@ -6,9 +6,9 @@
 //  Copyright (c) 2015 BRAE. All rights reserved.
 //
 
-#import "BRATheme.h"
-#import "NativeColor+HTML.h"
-#import "XlsxReaderXMLDictionary.h"
+#import <XlsxReaderWriter/BRATheme.h>
+#import <XlsxReaderWriter/NativeColor+HTML.h>
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
 
 // It seems thats S01 & S00 have been switched compared to IEC 29500-1.
 // Don't know why !!!

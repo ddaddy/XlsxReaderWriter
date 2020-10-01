@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRAMergeCell.h"
+#import <XlsxReaderWriter/BRAMergeCell.h>
 
 @implementation BRAMergeCell
 

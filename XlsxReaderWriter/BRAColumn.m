@@ -6,10 +6,10 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRAColumn.h"
+#import <XlsxReaderWriter/BRAColumn.h>
 @import CoreGraphics;
 
-#import "XlsxReaderXMLDictionary.h"
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
 
 #define TRUNCATE(X) floor(X)
 

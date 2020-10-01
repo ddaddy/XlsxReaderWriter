@@ -6,13 +6,13 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRACalcChain.h"
-#import "BRACalcChainCell.h"
-#import "BRARow.h"
-#import "BRACell.h"
-#import "BRAColumn.h"
-#import "XlsxReaderXMLDictionary.h"
-#import "NSDictionary+OpenXmlString.h"
+#import <XlsxReaderWriter/BRACalcChain.h>
+#import <XlsxReaderWriter/BRACalcChainCell.h>
+#import <XlsxReaderWriter/BRARow.h>
+#import <XlsxReaderWriter/BRACell.h>
+#import <XlsxReaderWriter/BRAColumn.h>
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
+#import <XlsxReaderWriter/NSDictionary+OpenXmlString.h>
 
 @implementation BRACalcChain
 

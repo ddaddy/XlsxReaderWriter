@@ -6,26 +6,26 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRAWorksheet.h"
-#import "BRACell.h"
-#import "BRACellRange.h"
-#import "BRAColumn.h"
-#import "BRARow.h"
-#import "BRARelationships.h"
-#import "BRAPlatformSpecificDefines.h"
-#import "BRARelationships.h"
-#import "BRAImage.h"
-#import "BRAWorksheetDrawing.h"
-#import "BRAMergeCell.h"
-#import "BRAStyles.h"
-#import "BRADrawing.h"
-#import "BRAImage.h"
-#import "BRACalcChain.h"
-#import "BRASharedStrings.h"
-#import "BRAComments.h"
-#import "XlsxReaderXMLDictionary.h"
-#import "NSDictionary+DeepCopy.h"
-#import "NSDictionary+OpenXmlString.h"
+#import <XlsxReaderWriter/BRAWorksheet.h>
+#import <XlsxReaderWriter/BRACell.h>
+#import <XlsxReaderWriter/BRACellRange.h>
+#import <XlsxReaderWriter/BRAColumn.h>
+#import <XlsxReaderWriter/BRARow.h>
+#import <XlsxReaderWriter/BRARelationships.h>
+#import <XlsxReaderWriter/BRAPlatformSpecificDefines.h>
+#import <XlsxReaderWriter/BRARelationships.h>
+#import <XlsxReaderWriter/BRAImage.h>
+#import <XlsxReaderWriter/BRAWorksheetDrawing.h>
+#import <XlsxReaderWriter/BRAMergeCell.h>
+#import <XlsxReaderWriter/BRAStyles.h>
+#import <XlsxReaderWriter/BRADrawing.h>
+#import <XlsxReaderWriter/BRAImage.h>
+#import <XlsxReaderWriter/BRACalcChain.h>
+#import <XlsxReaderWriter/BRASharedStrings.h>
+#import <XlsxReaderWriter/BRAComments.h>
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
+#import <XlsxReaderWriter/NSDictionary+DeepCopy.h>
+#import <XlsxReaderWriter/NSDictionary+OpenXmlString.h>
 
 @implementation BRAWorksheet
 

@@ -6,15 +6,15 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRAStyles.h"
-#import "BRACellFill.h"
-#import "BRACellFormat.h"
-#import "BRANumberFormat.h"
-#import "BRATheme.h"
-#import "XlsxReaderXMLDictionary.h"
-#import "NSDictionary+DeepCopy.h"
-#import "NSDictionary+OpenXmlString.h"
-#import "NativeFont+BoldItalic.h"
+#import <XlsxReaderWriter/BRAStyles.h>
+#import <XlsxReaderWriter/BRACellFill.h>
+#import <XlsxReaderWriter/BRACellFormat.h>
+#import <XlsxReaderWriter/BRANumberFormat.h>
+#import <XlsxReaderWriter/BRATheme.h>
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
+#import <XlsxReaderWriter/NSDictionary+DeepCopy.h>
+#import <XlsxReaderWriter/NSDictionary+OpenXmlString.h>
+#import <XlsxReaderWriter/NativeFont+BoldItalic.h>
 
 @implementation BRAStyles
 

@@ -9,20 +9,20 @@
 #import <XCTest/XCTest.h>
 #import <stdio.h>
 
-#import "BRAOfficeDocumentPackage.h"
-#import "BRAOfficeDocument.h"
-#import "BRAWorksheetDrawing.h"
-#import "BRAWorksheet.h"
-#import "BRANumberFormat.h"
-#import "BRARelationships.h"
-#import "BRADrawing.h"
-#import "BRAImage.h"
-#import "BRAColumn.h"
-#import "BRARow.h"
-#import "BRACell.h"
-#import "BRAVmlDrawing.h"
-#import "BRASheet.h"
-#import "BRAStyles.h"
+#import <XlsxReaderWriter/BRAOfficeDocumentPackage.h>
+#import <XlsxReaderWriter/BRAOfficeDocument.h>
+#import <XlsxReaderWriter/BRAWorksheetDrawing.h>
+#import <XlsxReaderWriter/BRAWorksheet.h>
+#import <XlsxReaderWriter/BRANumberFormat.h>
+#import <XlsxReaderWriter/BRARelationships.h>
+#import <XlsxReaderWriter/BRADrawing.h>
+#import <XlsxReaderWriter/BRAImage.h>
+#import <XlsxReaderWriter/BRAColumn.h>
+#import <XlsxReaderWriter/BRARow.h>
+#import <XlsxReaderWriter/BRACell.h>
+#import <XlsxReaderWriter/BRAVmlDrawing.h>
+#import <XlsxReaderWriter/BRASheet.h>
+#import <XlsxReaderWriter/BRAStyles.h>
 
 #define NUMBER_FORMAT(X) [[BRANumberFormat alloc] initWithOpenXmlAttributes:@{@"_formatCode": X} inStyles:self.spreadsheet.workbook.styles]
 

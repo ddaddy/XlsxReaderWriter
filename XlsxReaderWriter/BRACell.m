@@ -6,20 +6,20 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRACell.h"
-#import "BRAColumn.h"
-#import "BRARow.h"
-#import "BRAImage.h"
-#import "BRAWorksheet.h"
-#import "BRADrawing.h"
-#import "BRACellFormat.h"
-#import "BRASharedString.h"
-#import "BRANumberFormat.h"
-#import "BRACellFill.h"
-#import "BRAStyles.h"
-#import "BRASharedString.h"
-#import "BRASharedStrings.h"
-#import "XlsxReaderXMLDictionary.h"
+#import <XlsxReaderWriter/BRACell.h>
+#import <XlsxReaderWriter/BRAColumn.h>
+#import <XlsxReaderWriter/BRARow.h>
+#import <XlsxReaderWriter/BRAImage.h>
+#import <XlsxReaderWriter/BRAWorksheet.h>
+#import <XlsxReaderWriter/BRADrawing.h>
+#import <XlsxReaderWriter/BRACellFormat.h>
+#import <XlsxReaderWriter/BRASharedString.h>
+#import <XlsxReaderWriter/BRANumberFormat.h>
+#import <XlsxReaderWriter/BRACellFill.h>
+#import <XlsxReaderWriter/BRAStyles.h>
+#import <XlsxReaderWriter/BRASharedString.h>
+#import <XlsxReaderWriter/BRASharedStrings.h>
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
 
 @implementation BRACell
 

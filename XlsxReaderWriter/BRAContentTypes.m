@@ -6,12 +6,12 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRAContentTypes.h"
-#import "BRARelationship.h"
-#import "NSDictionary+OpenXMLDictionaryParser.h"
-#import "BRAContentTypesDefaultExtension.h"
-#import "BRAContentTypesOverride.h"
-#import "NSDictionary+OpenXmlString.h"
+#import <XlsxReaderWriter/BRAContentTypes.h>
+#import <XlsxReaderWriter/BRARelationship.h>
+#import <XlsxReaderWriter/NSDictionary+OpenXMLDictionaryParser.h>
+#import <XlsxReaderWriter/BRAContentTypesDefaultExtension.h>
+#import <XlsxReaderWriter/BRAContentTypesOverride.h>
+#import <XlsxReaderWriter/NSDictionary+OpenXmlString.h>
 
 @implementation BRAContentTypes
 

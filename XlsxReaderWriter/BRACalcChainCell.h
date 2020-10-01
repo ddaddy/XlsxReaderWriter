@@ -8,7 +8,7 @@
 
 @import Foundation;
 
-#import "BRAOpenXmlSubElement.h"
+#import <XlsxReaderWriter/BRAOpenXmlSubElement.h>
 
 @interface BRACalcChainCell : BRAOpenXmlSubElement
 

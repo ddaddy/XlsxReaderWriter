@@ -7,7 +7,7 @@
 //
 
 @import Foundation;
-#import "BRAPlatformSpecificDefines.h"
+#import <XlsxReaderWriter/BRAPlatformSpecificDefines.h>
 
 static const NSString *kBRAFontNameRegular = @"regular";
 static const NSString *kBRAFontNameItalic = @"italic";

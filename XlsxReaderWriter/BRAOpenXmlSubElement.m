@@ -6,15 +6,15 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRAOpenXmlSubElement.h"
-#import "BRAStyles.h"
+#import <XlsxReaderWriter/BRAOpenXmlSubElement.h>
+#import <XlsxReaderWriter/BRAStyles.h>
 
-#import "NativeColor+HTML.h"
-#import "NativeFont+BoldItalic.h"
-#import "NSDictionary+DeepCopy.h"
-#import "NSDictionary+OpenXmlString.h"
-#import "NSDictionary+OpenXMLDictionaryParser.h"
-#import "XlsxReaderXMLDictionary.h"
+#import <XlsxReaderWriter/NativeColor+HTML.h>
+#import <XlsxReaderWriter/NativeFont+BoldItalic.h>
+#import <XlsxReaderWriter/NSDictionary+DeepCopy.h>
+#import <XlsxReaderWriter/NSDictionary+OpenXmlString.h>
+#import <XlsxReaderWriter/NSDictionary+OpenXMLDictionaryParser.h>
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
 
 @implementation BRAOpenXmlSubElement
 

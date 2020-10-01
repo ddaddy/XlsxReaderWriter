@@ -7,7 +7,7 @@
 //
 
 @import Foundation;
-#import "BRAPlatformSpecificDefines.h"
+#import <XlsxReaderWriter/BRAPlatformSpecificDefines.h>
 
 @interface BRANativeColor(HTML)
 

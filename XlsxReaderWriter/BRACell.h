@@ -8,10 +8,10 @@
 
 @import Foundation;
 @import CoreGraphics;
-#import "BRAPlatformSpecificDefines.h"
+#import <XlsxReaderWriter/BRAPlatformSpecificDefines.h>
 
-#import "BRAOpenXmlSubElement.h"
-#import "BRACellFill.h"
+#import <XlsxReaderWriter/BRAOpenXmlSubElement.h>
+#import <XlsxReaderWriter/BRACellFill.h>
 
 @class BRAMergeCell, BRACellFormat, BRARow, BRAImage;
 

@@ -7,7 +7,7 @@
 //
 
 @import Foundation;
-#import "BRAOpenXmlSubElement.h"
+#import <XlsxReaderWriter/BRAOpenXmlSubElement.h>
 
 @interface BRASharedString : BRAOpenXmlSubElementWithStyle {
     NSMutableAttributedString *_attributedString;

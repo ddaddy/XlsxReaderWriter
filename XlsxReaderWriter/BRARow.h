@@ -7,7 +7,7 @@
 //
 
 @import Foundation;
-#import "BRAOpenXmlSubElement.h"
+#import <XlsxReaderWriter/BRAOpenXmlSubElement.h>
 
 @class BRACell, BRAWorksheet;
 

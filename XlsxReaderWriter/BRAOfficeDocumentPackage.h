@@ -8,7 +8,7 @@
 
 @import Foundation;
 
-#import "BRAElementWithRelationships.h"
+#import <XlsxReaderWriter/BRAElementWithRelationships.h>
 
 @class BRAContentTypes, BRAOfficeDocument;
 

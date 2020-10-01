@@ -6,9 +6,9 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRAElementWithRelationships.h"
-#import "BRARelationships.h"
-#import "BRAOfficeDocumentPackage.h"
+#import <XlsxReaderWriter/BRAElementWithRelationships.h>
+#import <XlsxReaderWriter/BRARelationships.h>
+#import <XlsxReaderWriter/BRAOfficeDocumentPackage.h>
 
 /*!
  * @discussion Abstract class for every files that can have a .rels file

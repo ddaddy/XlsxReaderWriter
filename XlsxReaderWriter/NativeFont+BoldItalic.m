@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "NativeFont+BoldItalic.h"
+#import <XlsxReaderWriter/NativeFont+BoldItalic.h>
 
 @implementation BRANativeFont (BoldItalic)
 

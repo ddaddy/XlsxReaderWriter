@@ -7,8 +7,8 @@
 //
 
 @import Foundation;
-#import "BRAPlatformSpecificDefines.h"
-#import "BRAOpenXmlSubElement.h"
+#import <XlsxReaderWriter/BRAPlatformSpecificDefines.h>
+#import <XlsxReaderWriter/BRAOpenXmlSubElement.h>
 
 @class BRAImage;
 

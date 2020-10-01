@@ -7,7 +7,7 @@
 //
 
 @import Foundation;
-#import "BRARelationship.h"
+#import <XlsxReaderWriter/BRARelationship.h>
 
 @interface BRATheme : BRARelationship
 

@@ -6,7 +6,7 @@
 //  Copyright © 2015 BRAE. All rights reserved.
 //
 
-#import "BRAComment.h"
+#import <XlsxReaderWriter/BRAComment.h>
 
 @implementation BRAComment
 

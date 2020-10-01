@@ -7,8 +7,8 @@
 //
 
 @import Foundation;
-#import "NativeColor+OpenXML.h"
-#import "BRAElementWithRelationships.h"
+#import <XlsxReaderWriter/NativeColor+OpenXML.h>
+#import <XlsxReaderWriter/BRAElementWithRelationships.h>
 
 @interface BRARelationship : BRAElementWithRelationships
 

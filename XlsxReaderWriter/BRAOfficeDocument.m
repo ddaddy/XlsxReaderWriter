@@ -6,19 +6,19 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRAOfficeDocument.h"
-#import "BRARelationships.h"
-#import "BRASharedStrings.h"
-#import "BRAWorksheet.h"
-#import "BRASheet.h"
-#import "BRANumberFormat.h"
-#import "BRATheme.h"
-#import "BRAStyles.h"
-#import "BRACalcChain.h"
-#import "BRAComments.h"
-#import "BRAOpenXmlSubElement.h"
-#import "XlsxReaderXMLDictionary.h"
-#import "NSDictionary+OpenXmlString.h"
+#import <XlsxReaderWriter/BRAOfficeDocument.h>
+#import <XlsxReaderWriter/BRARelationships.h>
+#import <XlsxReaderWriter/BRASharedStrings.h>
+#import <XlsxReaderWriter/BRAWorksheet.h>
+#import <XlsxReaderWriter/BRASheet.h>
+#import <XlsxReaderWriter/BRANumberFormat.h>
+#import <XlsxReaderWriter/BRATheme.h>
+#import <XlsxReaderWriter/BRAStyles.h>
+#import <XlsxReaderWriter/BRACalcChain.h>
+#import <XlsxReaderWriter/BRAComments.h>
+#import <XlsxReaderWriter/BRAOpenXmlSubElement.h>
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
+#import <XlsxReaderWriter/NSDictionary+OpenXmlString.h>
 
 @implementation BRAOfficeDocument
 

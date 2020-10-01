@@ -7,7 +7,7 @@
 //
 
 @import Foundation;
-#import "BRARelationship.h"
+#import <XlsxReaderWriter/BRARelationship.h>
 
 @class BRASharedStrings, BRACalcChain, BRAStyles, BRAWorksheet;
 

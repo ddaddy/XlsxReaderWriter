@@ -7,7 +7,7 @@
 //
 
 @import Foundation;
-#import "BRAOpenXmlElement.h"
+#import <XlsxReaderWriter/BRAOpenXmlElement.h>
 
 typedef NSString *BRAContentType;
 

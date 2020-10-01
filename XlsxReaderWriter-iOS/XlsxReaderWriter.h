@@ -20,24 +20,24 @@ FOUNDATION_EXPORT const unsigned char XlsxReaderWriter_iOSVersionString[];
 #ifndef BRAXlsxReaderWriter_h
 #define BRAXlsxReaderWriter_h
 
-#import "BRAOfficeDocumentPackage.h"
-#import "BRAWorksheet.h"
-#import "BRANumberFormat.h"
-#import "BRARelationships.h"
-#import "BRADrawing.h"
-#import "BRAImage.h"
-#import "BRAColumn.h"
-#import "BRARow.h"
-#import "BRACell.h"
+#import <XlsxReaderWriter/BRAOfficeDocumentPackage.h>
+#import <XlsxReaderWriter/BRAWorksheet.h>
+#import <XlsxReaderWriter/BRANumberFormat.h>
+#import <XlsxReaderWriter/BRARelationships.h>
+#import <XlsxReaderWriter/BRADrawing.h>
+#import <XlsxReaderWriter/BRAImage.h>
+#import <XlsxReaderWriter/BRAColumn.h>
+#import <XlsxReaderWriter/BRARow.h>
+#import <XlsxReaderWriter/BRACell.h>
 
-#import "BRAVmlDrawing.h"
-#import "BRASheet.h"
-#import "BRAComment.h"
-#import "BRAComments.h"
-#import "BRACalcChainCell.h"
+#import <XlsxReaderWriter/BRAVmlDrawing.h>
+#import <XlsxReaderWriter/BRASheet.h>
+#import <XlsxReaderWriter/BRAComment.h>
+#import <XlsxReaderWriter/BRAComments.h>
+#import <XlsxReaderWriter/BRACalcChainCell.h>
 
-#import "XlsxReaderWriter-swift-bridge.h"
-#import "XlsxReaderXMLDictionary.h"
+#import <XlsxReaderWriter/XlsxReaderWriter-swift-bridge.h>
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
 
 
 #endif /* BRAXlsxReaderWriter_h */

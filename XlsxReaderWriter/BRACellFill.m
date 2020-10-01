@@ -6,9 +6,9 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRACellFill.h"
-#import "BRAStyles.h"
-#import "NSDictionary+DeepCopy.h"
+#import <XlsxReaderWriter/BRACellFill.h>
+#import <XlsxReaderWriter/BRAStyles.h>
+#import <XlsxReaderWriter/NSDictionary+DeepCopy.h>
 
 @implementation BRACellFill
 

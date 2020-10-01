@@ -7,8 +7,8 @@
 //
 
 @import Foundation;
-#import "BRARelatedToColumnAndRowProtocol.h"
-#import "BRARelationship.h"
+#import <XlsxReaderWriter/BRARelatedToColumnAndRowProtocol.h>
+#import <XlsxReaderWriter/BRARelationship.h>
 
 @class BRAWorksheetDrawing, BRAImage, BRAAnchor;
 

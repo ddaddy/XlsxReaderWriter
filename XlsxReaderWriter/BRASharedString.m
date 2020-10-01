@@ -6,10 +6,10 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRASharedString.h"
-#import "BRAOfficeDocument.h"
-#import "BRAStyles.h"
-#import "XlsxReaderXMLDictionary.h"
+#import <XlsxReaderWriter/BRASharedString.h>
+#import <XlsxReaderWriter/BRAOfficeDocument.h>
+#import <XlsxReaderWriter/BRAStyles.h>
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
 
 @implementation BRASharedString
 

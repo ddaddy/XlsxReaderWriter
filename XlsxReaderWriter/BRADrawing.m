@@ -6,16 +6,16 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRADrawing.h"
-#import "BRARow.h"
-#import "BRACell.h"
-#import "BRAColumn.h"
-#import "BRARelationships.h"
-#import "BRAImage.h"
-#import "BRAWorksheetDrawing.h"
+#import <XlsxReaderWriter/BRADrawing.h>
+#import <XlsxReaderWriter/BRARow.h>
+#import <XlsxReaderWriter/BRACell.h>
+#import <XlsxReaderWriter/BRAColumn.h>
+#import <XlsxReaderWriter/BRARelationships.h>
+#import <XlsxReaderWriter/BRAImage.h>
+#import <XlsxReaderWriter/BRAWorksheetDrawing.h>
 
-#import "NSDictionary+OpenXmlString.h"
-#import "XlsxReaderXMLDictionary.h"
+#import <XlsxReaderWriter/NSDictionary+OpenXmlString.h>
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
 
 #define ONE_CELL_ANCHOR @"xdr:oneCellAnchor"
 #define TWO_CELL_ANCHOR @"xdr:twoCellAnchor"

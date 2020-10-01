@@ -6,11 +6,11 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRACellFormat.h"
-#import "BRAStyles.h"
-#import "BRACellFill.h"
-#import "BRANumberFormat.h"
-#import "XlsxReaderXMLDictionary.h"
+#import <XlsxReaderWriter/BRACellFormat.h>
+#import <XlsxReaderWriter/BRAStyles.h>
+#import <XlsxReaderWriter/BRACellFill.h>
+#import <XlsxReaderWriter/BRANumberFormat.h>
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
 
 @implementation BRACellFormat
 

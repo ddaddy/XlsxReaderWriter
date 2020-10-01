@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRASheet.h"
+#import <XlsxReaderWriter/BRASheet.h>
 
 @implementation BRASheet
 

@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRAImage.h"
+#import <XlsxReaderWriter/BRAImage.h>
 
 @implementation BRAImage
 

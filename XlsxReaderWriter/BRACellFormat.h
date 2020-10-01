@@ -7,9 +7,9 @@
 //
 
 @import Foundation;
-#import "BRAPlatformSpecificDefines.h"
+#import <XlsxReaderWriter/BRAPlatformSpecificDefines.h>
 
-#import "BRAOpenXmlSubElement.h"
+#import <XlsxReaderWriter/BRAOpenXmlSubElement.h>
 
 @class BRAStyles, BRACellFill, BRANumberFormat;
 

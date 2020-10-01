@@ -7,8 +7,8 @@
 //
 
 @import Foundation;
-#import "BRAOpenXmlElement.h"
-#import "NSDictionary+OpenXMLDictionaryParser.h"
+#import <XlsxReaderWriter/BRAOpenXmlElement.h>
+#import <XlsxReaderWriter/NSDictionary+OpenXMLDictionaryParser.h>
 
 @class BRARelationships;
 

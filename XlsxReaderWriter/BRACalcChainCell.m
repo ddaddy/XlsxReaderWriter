@@ -6,7 +6,7 @@
 //  Copyright © 2015 BRAE. All rights reserved.
 //
 
-#import "BRACalcChainCell.h"
+#import <XlsxReaderWriter/BRACalcChainCell.h>
 
 @implementation BRACalcChainCell
 

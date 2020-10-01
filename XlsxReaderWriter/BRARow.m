@@ -6,12 +6,12 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRARow.h"
-#import "BRACell.h"
-#import "BRAMergeCell.h"
-#import "BRAWorksheet.h"
-#import "BRAColumn.h"
-#import "XlsxReaderXMLDictionary.h"
+#import <XlsxReaderWriter/BRARow.h>
+#import <XlsxReaderWriter/BRACell.h>
+#import <XlsxReaderWriter/BRAMergeCell.h>
+#import <XlsxReaderWriter/BRAWorksheet.h>
+#import <XlsxReaderWriter/BRAColumn.h>
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
 
 @implementation BRARow
 

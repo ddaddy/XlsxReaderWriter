@@ -6,10 +6,10 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRAOpenXmlElement.h"
-#import "BRAOfficeDocumentPackage.h"
-#import "BRARelationship.h"
-#import "NSDictionary+OpenXMLDictionaryParser.h"
+#import <XlsxReaderWriter/BRAOpenXmlElement.h>
+#import <XlsxReaderWriter/BRAOfficeDocumentPackage.h>
+#import <XlsxReaderWriter/BRARelationship.h>
+#import <XlsxReaderWriter/NSDictionary+OpenXMLDictionaryParser.h>
 
 @implementation BRAOpenXmlElement
 

@@ -6,9 +6,9 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "BRAContentTypesDefaultExtension.h"
-#import "BRARelationship.h"
-#import "XlsxReaderXMLDictionary.h"
+#import <XlsxReaderWriter/BRAContentTypesDefaultExtension.h>
+#import <XlsxReaderWriter/BRARelationship.h>
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
 
 @implementation BRAContentTypesDefaultExtension
 

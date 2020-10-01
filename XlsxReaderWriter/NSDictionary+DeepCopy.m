@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "NSDictionary+DeepCopy.h"
+#import <XlsxReaderWriter/NSDictionary+DeepCopy.h>
 
 @implementation NSDictionary (DeepCopy)
 

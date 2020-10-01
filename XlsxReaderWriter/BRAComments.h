@@ -6,9 +6,9 @@
 //  Copyright © 2015 BRAE. All rights reserved.
 //
 
-#import "BRARelationship.h"
-#import "BRARelationships.h"
-#import "BRARelatedToColumnAndRowProtocol.h"
+#import <XlsxReaderWriter/BRARelationship.h>
+#import <XlsxReaderWriter/BRARelationships.h>
+#import <XlsxReaderWriter/BRARelatedToColumnAndRowProtocol.h>
 
 /** This class does not change the comments content.
  * It just handles rows and columns deletions / additions */

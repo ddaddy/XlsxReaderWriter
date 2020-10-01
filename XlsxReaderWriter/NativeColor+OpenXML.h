@@ -7,7 +7,7 @@
 //
 
 @import Foundation;
-#import "NativeColor+HTML.h"
+#import <XlsxReaderWriter/NativeColor+HTML.h>
 
 @interface BRANativeColor (OpenXml)
 

@@ -6,8 +6,8 @@
 //  Copyright (c) 2014 René Bigot. All rights reserved.
 //
 
-#import "NSDictionary+OpenXMLDictionaryParser.h"
-#import "XlsxReaderXMLDictionary.h"
+#import <XlsxReaderWriter/NSDictionary+OpenXMLDictionaryParser.h>
+#import <XlsxReaderWriter/XlsxReaderXMLDictionary.h>
 
 @implementation NSDictionary (OpenXMLDictionaryParser)
 
