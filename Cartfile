@@ -1,1 +1,1 @@
-github "ddaddy/ZipArchive" "master"
+github "ZipArchive/ZipArchive" ~> 2.1
