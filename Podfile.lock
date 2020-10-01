@@ -2,21 +2,15 @@ PODS:
   - SSZipArchive (2.2.3)
 
 DEPENDENCIES:
-  - SSZipArchive (from `https://github.com/ddaddy/ZipArchive.git`, branch `master`)
+  - SSZipArchive (~> 2.1)
 
-EXTERNAL SOURCES:
-  SSZipArchive:
-    :branch: master
-    :git: https://github.com/ddaddy/ZipArchive.git
-
-CHECKOUT OPTIONS:
-  SSZipArchive:
-    :commit: b62f82a983800704babbbc7423f6250abf9de32c
-    :git: https://github.com/ddaddy/ZipArchive.git
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SSZipArchive
 
 SPEC CHECKSUMS:
-  SSZipArchive: 7b3893d9515ad5386c83670dc7d9b1f1cf5a53dd
+  SSZipArchive: 62d4947b08730e4cda640473b0066d209ff033c9
 
-PODFILE CHECKSUM: a550e713400ba26b2506812f9e1ee93d5c41d97e
+PODFILE CHECKSUM: dafdcf7b4aae5be293fa19ae168fe9c98acbfd27
 
 COCOAPODS: 1.9.3
