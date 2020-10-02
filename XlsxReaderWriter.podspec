@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   
   s.requires_arc       = true
 
-  s.dependency "SSZipArchive", :git => 'https://github.com/ddaddy/ZipArchive.git', :branch => 'master'
+  s.dependency "SSZipArchive", "~> 2.1"
 
 end
 

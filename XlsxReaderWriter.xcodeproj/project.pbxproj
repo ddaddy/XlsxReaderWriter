@@ -89,7 +89,6 @@
 		22225F2E1C47F60600256993 /* libz.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 22225F2D1C47F60600256993 /* libz.1.dylib */; };
 		22225F301C47F75000256993 /* XlsxReaderWriter.h in Headers */ = {isa = PBXBuildFile; fileRef = 22225F2F1C47F72B00256993 /* XlsxReaderWriter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		22225F351C481E2500256993 /* NativeFont+BoldItalic.m in Sources */ = {isa = PBXBuildFile; fileRef = 4580C6CB1A15171100790ED5 /* NativeFont+BoldItalic.m */; };
-		24A00125111C3D765EDA996D /* Pods_XlsxReaderWriter_iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79E472C077C3646AA0AB918D /* Pods_XlsxReaderWriter_iOS.framework */; };
 		454D49FD1B4B27E40053CD86 /* BRATheme.m in Sources */ = {isa = PBXBuildFile; fileRef = 454D49FC1B4B27E40053CD86 /* BRATheme.m */; };
 		455542A71C492C6A00EAB8FE /* BRAPlatformSpecificDefines.h in Headers */ = {isa = PBXBuildFile; fileRef = 455542A61C492C6A00EAB8FE /* BRAPlatformSpecificDefines.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		455C23B61BB908D300CEE3A2 /* BRAVmlDrawing.m in Sources */ = {isa = PBXBuildFile; fileRef = 455C23B51BB908D300CEE3A2 /* BRAVmlDrawing.m */; };
@@ -345,7 +344,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		08280D4D0BA3795BF05B7970 /* Pods-XlsxReaderWriter-iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriter-iOS.release.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriter-iOS/Pods-XlsxReaderWriter-iOS.release.xcconfig"; sourceTree = "<group>"; };
 		10546D48274DAB6878F91848 /* Pods_XlsxReaderWriterTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XlsxReaderWriterTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		22156D581C46B42500BB5779 /* XlsxReaderWriter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XlsxReaderWriter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		22156D5C1C46B42500BB5779 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -446,6 +444,7 @@
 		45D6FBD61BB27970002ACC9C /* BRAComment.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BRAComment.h; sourceTree = "<group>"; };
 		45D6FBD71BB279A5002ACC9C /* BRAComment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRAComment.m; sourceTree = "<group>"; };
 		46F17E455AED3205E3BDFBB6 /* Pods-XlsxReaderWriterTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriterTests.debug.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriterTests/Pods-XlsxReaderWriterTests.debug.xcconfig"; sourceTree = "<group>"; };
+		5C80DAB821631DC9A77D4D26 /* Pods_XlsxReaderWriter_Mac.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XlsxReaderWriter_Mac.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		79E472C077C3646AA0AB918D /* Pods_XlsxReaderWriter_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XlsxReaderWriter_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8265BC2F2041C4BE004A2A7D /* XlsxReaderXMLDictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XlsxReaderXMLDictionary.h; path = XlsxReaderWriter/XlsxReaderXMLDictionary.h; sourceTree = "<group>"; };
 		8265BC302041C4BE004A2A7D /* XlsxReaderXMLDictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XlsxReaderXMLDictionary.m; path = XlsxReaderWriter/XlsxReaderXMLDictionary.m; sourceTree = "<group>"; };
@@ -465,7 +464,6 @@
 		82DAA59D237C0A7C003AFDE7 /* ZipArchive.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ZipArchive.framework; path = Carthage/Build/Mac/ZipArchive.framework; sourceTree = "<group>"; };
 		87E8EFADE61B3A073FA72D4A /* Pods_XlsxReaderWriter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XlsxReaderWriter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		88C087E5901FCE236E758D78 /* Pods-XlsxReaderWriter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriter.debug.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriter/Pods-XlsxReaderWriter.debug.xcconfig"; sourceTree = "<group>"; };
-		C9AD7E22489EF91E3B88F4C9 /* Pods-XlsxReaderWriter-iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriter-iOS.debug.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriter-iOS/Pods-XlsxReaderWriter-iOS.debug.xcconfig"; sourceTree = "<group>"; };
 		D39ECDF99691A1A9CED819CC /* Pods-XlsxReaderWriter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriter.release.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriter/Pods-XlsxReaderWriter.release.xcconfig"; sourceTree = "<group>"; };
 		F7ABC5622E3B8EF3F3460B9C /* Pods-XlsxReaderWriterTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XlsxReaderWriterTests.release.xcconfig"; path = "Target Support Files/Pods-XlsxReaderWriterTests/Pods-XlsxReaderWriterTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -509,7 +507,6 @@
 				8289AAC82041E8BC00E00603 /* UIKit.framework in Frameworks */,
 				82DAA59C237C0A71003AFDE7 /* ZipArchive.framework in Frameworks */,
 				8289AAC72041E8B500E00603 /* libz.1.tbd in Frameworks */,
-				24A00125111C3D765EDA996D /* Pods_XlsxReaderWriter_iOS.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1065,6 +1062,7 @@
 				82BB0D4421519CB900CD4CC4 /* libz.1.tbd */,
 				8289AAC42041E8A900E00603 /* libz.tbd */,
 				87E8EFADE61B3A073FA72D4A /* Pods_XlsxReaderWriter.framework */,
+				5C80DAB821631DC9A77D4D26 /* Pods_XlsxReaderWriter_Mac.framework */,
 				79E472C077C3646AA0AB918D /* Pods_XlsxReaderWriter_iOS.framework */,
 				10546D48274DAB6878F91848 /* Pods_XlsxReaderWriterTests.framework */,
 			);
@@ -1087,8 +1085,6 @@
 				D39ECDF99691A1A9CED819CC /* Pods-XlsxReaderWriter.release.xcconfig */,
 				46F17E455AED3205E3BDFBB6 /* Pods-XlsxReaderWriterTests.debug.xcconfig */,
 				F7ABC5622E3B8EF3F3460B9C /* Pods-XlsxReaderWriterTests.release.xcconfig */,
-				C9AD7E22489EF91E3B88F4C9 /* Pods-XlsxReaderWriter-iOS.debug.xcconfig */,
-				08280D4D0BA3795BF05B7970 /* Pods-XlsxReaderWriter-iOS.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -1309,7 +1305,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8289AA682041D9F900E00603 /* Build configuration list for PBXNativeTarget "XlsxReaderWriter-iOS" */;
 			buildPhases = (
-				46BC41D902C5594F547116A1 /* [CP] Check Pods Manifest.lock */,
 				8289AA5E2041D9F900E00603 /* Sources */,
 				8289AA5F2041D9F900E00603 /* Frameworks */,
 				8289AA602041D9F900E00603 /* Headers */,
@@ -1445,28 +1440,6 @@
 			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-XlsxReaderWriter-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		46BC41D902C5594F547116A1 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-XlsxReaderWriter-iOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -1968,7 +1941,6 @@
 		};
 		8289AA692041D9F900E00603 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C9AD7E22489EF91E3B88F4C9 /* Pods-XlsxReaderWriter-iOS.debug.xcconfig */;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -2021,7 +1993,6 @@
 		};
 		8289AA6A2041D9F900E00603 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 08280D4D0BA3795BF05B7970 /* Pods-XlsxReaderWriter-iOS.release.xcconfig */;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ANALYZER_NONNULL = YES;
